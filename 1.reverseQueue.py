@@ -1,5 +1,5 @@
-from ..EXAM.queue_optimal import Queue
-from ..EXAM.stack1 import Stack
+from .DataStructures.queue_optimal import Queue
+from .DataStructures.stack1 import Stack
 
 queue = Queue()
 for i in range(10):
